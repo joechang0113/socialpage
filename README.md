@@ -87,7 +87,7 @@ Here's the code in case you're too lazy to [fork this](https://github.com/joecha
     <!-- links to your social media accounts -->
     <!-- update these accordingly -->
 
-    [1]: https://www.instagram.com/joechang011
+    [1]: https://www.instagram.com/joechang0113
     [2]: http://www.facebook.com/joechang0113
     [3]: https://twitter.com/joechang0113
     [4]: http://weibo.com/7331813538/profile
